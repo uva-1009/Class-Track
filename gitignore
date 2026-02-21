@@ -1,0 +1,17 @@
+# Data files - don't upload real student data to GitHub
+students.csv
+attendance.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# IDE folders
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
