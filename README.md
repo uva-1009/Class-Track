@@ -13,7 +13,7 @@ Class Track is a Python-based desktop application designed to automate student a
 * **Report Generation:** Generates automated summaries and tracking sheets.
 
 ##  Project Status
-* 🚧 **In Progress** - Currently refining the GUI interface and backend database queries.
+*  **In Progress** - Currently refining the GUI interface and backend database queries.
 
 ---
 *Developed independently by Abhinaya U V.*
